@@ -1,0 +1,39 @@
+* {
+  font-family: arial, helvetica, tahoma, sans-serif;
+}
+
+.text {
+  font-size: 12px;
+}
+
+.lighttext {
+  color: #888888;
+}
+
+.redtext {
+  color: #ff0000;
+  font-weight: bold;
+}
+
+.x-grid3-row-alt{background-color:#FFFFCC;}
+
+.x-grid3-body .x-grid3-td-car_value {
+  background-color: #FFEEAA;
+  border-right: 1px solid #FFFFFF;
+}
+
+.x-grid3-summary-row {
+  background: #FFEEAA  none repeat scroll 0% 50%;
+  border-left: 1px solid #FFFFFF;
+  color: #333333;
+}
+
+.x-grid3-summary-row .x-grid3-cell-inner {
+  font-weight: bold;
+  padding-bottom: 4px;
+}
+
+
+.icon-email {
+  background: url(images/email.png) no-repeat center left !important;
+}

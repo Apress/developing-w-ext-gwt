@@ -1,0 +1,5 @@
+<module rename-to='codesnippet'>
+	<inherits name='com.extjs.gxt.ui.GXT' />
+	<inherits name='com.extjs.gxt.themes.Themes' />
+	<entry-point class='com.apress.client.CodeSnippet' />
+</module>

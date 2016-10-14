@@ -1,0 +1,7 @@
+<module rename-to='myapp'>
+	<inherits name='com.extjs.gxt.ui.GXT' />
+	<inherits name='com.extjs.gxt.charts.Chart' />
+	<entry-point class='com.apress.client.MyApp' />
+  	<source path="data"/>
+  	<source path="client"/>
+</module>

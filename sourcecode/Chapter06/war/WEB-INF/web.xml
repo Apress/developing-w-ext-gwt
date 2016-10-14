@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+  <servlet>
+    <servlet-name>myService</servlet-name>
+    <servlet-class>com.apress.server.MyServiceImpl</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>myService</servlet-name>
+    <url-pattern>/myapp/myService</url-pattern>
+  </servlet-mapping>  
+</web-app>
